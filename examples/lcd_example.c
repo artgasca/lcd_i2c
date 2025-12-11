@@ -1,8 +1,8 @@
 /* 
- * File:   lorawan_otaa_example
+ * File:   lcd_example
  * Author: Arturo Gasca
  *
- * Created on 06 de Diciembre de 2025, 10:32 AM
+ * Created on 11 de Diciembre de 2025, 10:46 AM
  */
 
 
